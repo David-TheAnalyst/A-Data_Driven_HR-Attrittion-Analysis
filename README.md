@@ -1,4 +1,8 @@
 # IBM HR Attrition Dashboard: A Data-Driven Analysis 📊
+<div align="center">
+  <img src="https://github.com/David-TheAnalyst/A-Data_Driven_HR-Attrittion-Analysis/blob/main/Emp%201st%20Image.png" alt="Flowpal Sales Dashboard Additional View" width="900" height="auto">
+</div>
+
 
 ## Introduction
 
@@ -45,16 +49,12 @@ This project showcases a robust skill set in data analysis, visualization, and s
 ## Visualization
 
 <div align="center">
-  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow1.png" alt="Flowpal Sales Dashboard Additional View" width="500" height="auto">
+  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow1.png" alt="Flowpal Sales Dashboard Additional View" width="700" height="auto">
 </div>
 
    *A glimpse of the **Overview** page, showcasing key performance indicators and revenue trends over time.*
 
-You can interact with the live visualization [Here](https://drive.google.com/file/d/1vww5alsZjdMF5Gh1QyIS1QHuGa2uUQgN/view?usp=drive_link)
-
-You can also interact with the live dashboard \[here\](*Insert Live Dashboard Link Here*)
-
-Watch the video presentation of the dashboard \[here\](*Insert Video Presentation Link Here*)
+You can interact with the live visualization [Here](https://github.com/David-TheAnalyst/A-Data_Driven_HR-Attrittion-Analysis/blob/main/HR%20Attrition%20Dashboard.pbix)
 
 
 ## Analysis
@@ -90,23 +90,21 @@ This analysis reveals a critical disconnect: IBM is not only losing employees, b
 To effectively mitigate these concerning attrition trends and safeguard IBM's human capital, HR stakeholders must implement a strategic, multi-pronged approach:
 
 1. Conduct a Comprehensive Compensation Audit & Restructuring especially with roles identified in high-attrition departments (R&D, Sales) and those with significant income disparities (Laboratory Technicians, Research Scientists, Sales Executives).
-
-  
 2.  Develop Targeted Career Pathing & Upskilling Programs for Early/Mid-Career Talent
-
-   
 3. Implement a Proactive Promotion & Performance Recognition Framework
-
-
-
 4.  Design Gender-Specific Retention Strategies for Male Talent
-
-
-
 5. Explore specific retention strategies for single employees, such as flexible work arrangements, opportunities for diverse project experiences or faster career progression tracks.
 
 
 
 ## Source of Data
 
-This analysis was conducted using a simulated IBM Employee Attrition Dataset from Kaggle.
+This analysis was conducted using a simulated IBM Employee Attrition Dataset from [Kaggle](Link)
+
+<h3 align="left">Connect with me on Socials:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/david ojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david ojo" height="30" width="40" /></a>
+<a href="https://twitter.com/david_ojo_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="david_ojo_1" height="30" width="40" /></a>
+<a href="https://medium.com/@davidojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidojo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/davidojo-j3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davidojo-j3v" height="30" width="40" /></a>
+</p>
