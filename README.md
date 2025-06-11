@@ -14,12 +14,6 @@ The analysis of IBM's employee data reveals critical insights into workforce sta
 
 * **Average Income Disparity** 
 * **Gender-Specific Attrition**
-
-* **Departmental Attrition Hotspots**
-* **Business Travel Impact** 
-
-* **Education Level Trends** 
-
 * **Relationship Status Impact** 
 
 ## Skills and Concepts Demonstrated
@@ -50,7 +44,13 @@ This project showcases a robust skill set in data analysis, visualization, and s
 
 ## Visualization
 
-*(IMAGE)*
+<div align="center">
+  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow1.png" alt="Flowpal Sales Dashboard Additional View" width="500" height="auto">
+</div>
+
+   *A glimpse of the **Overview** page, showcasing key performance indicators and revenue trends over time.*
+
+You can interact with the live visualization [Here](https://drive.google.com/file/d/1vww5alsZjdMF5Gh1QyIS1QHuGa2uUQgN/view?usp=drive_link)
 
 You can also interact with the live dashboard \[here\](*Insert Live Dashboard Link Here*)
 
